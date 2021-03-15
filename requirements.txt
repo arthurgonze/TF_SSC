@@ -1,5 +1,4 @@
 Crypto
-base64
 numpy
 matplotlib
 pandas
