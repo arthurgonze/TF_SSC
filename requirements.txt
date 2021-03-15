@@ -1,4 +1,5 @@
-Crypto
+Crypto.Cipher
+Crypto.Random
 numpy
 matplotlib
 pandas
