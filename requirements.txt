@@ -1,4 +1,4 @@
-pycrypto
+pycryptodome
 numpy
 matplotlib
 pandas
